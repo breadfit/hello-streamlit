@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 st.set_page_config(page_title="Hello Streamlit", page_icon="🔋")
-st.title("안녕하세요, Streamlit!")
+st.title("세방전지 AX 과정 첫 Streamlit 배포 🚀")
 
 name = st.text_input("이름을 입력하세요")
 if name:
